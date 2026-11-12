@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Artificial Intelligence: The Good, the Unethical, and the Worldviews](/pdf/CSCI 301 ethics paper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** Survey of Scripting Languages - CSCI 301
+-   **Grade:** 100%
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethical Issues in the World of Cyber Security](/pdf/CSCI 325 ethics paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Object-Oriented Programming - CSCI 325
+-   **Grade:** (ask her)
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Artificial Intelligence: The Ethical Problems with AI Art](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Applied Networking
+-   **Grade:** 100%
 
 ---
 
