@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Final Project - 5 STIG Python Scripts | CSCI 301](project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Statistics Calculator | CSCI 325](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Creating a LAN | CSCI 332](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Final Project - UDP Client and Server Package Transfer | CSCI 332](project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Malware Analysis Using Recorded Future Triage](/pdf/Malware_analysis_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Cyber Defense - CSCI 352
+- **Grade:** 100%
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Four Monstrous Data Breaches in Twelve Years](/pdf/CSCI_405_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity - CSCI 405
+- **Grade:** N/A
 
 ---
 
