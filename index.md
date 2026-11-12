@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Ethics of Artificial Intelligence: The Good, the Unethical, and the Worldviews](/pdf/CSCI_301 ethics_paper.pdf)
+### [The Ethics of Artificial Intelligence: The Good, the Unethical, and the Worldviews](/pdf/CSCI_301_ethics_paper.pdf)
 
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** 100%
@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** (ask her)
 
-### [Artificial Intelligence: The Ethical Problems with AI Art](/pdf/CSCI_332_ethics paper.pdf)
+### [Artificial Intelligence: The Ethical Problems with AI Art](/pdf/CSCI_332_ethics_paper.pdf)
 
 -   **Class:** Applied Networking
 -   **Grade:** 100%
