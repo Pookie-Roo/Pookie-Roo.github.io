@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Final Project - UDP Client and Server Transfer Files
+Final Project - UDP Client and Server Package Transfer
 ===============
 
 -   **Class:** Applied Networking - CSCI 332
