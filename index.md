@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Statistics Calculator | CSCI 325](project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/enterance_screen.png)
 
 ---
 ### [Creating a LAN | CSCI 332](project3.md)
