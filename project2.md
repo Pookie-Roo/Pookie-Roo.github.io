@@ -11,7 +11,7 @@ Statistics Calculator
 
 ## Project description
 
-This program is a statistics calculator with GUI created in Netbeans. When running the program, the user will see a box where they can type in inputs separated by commas, buttons to find the mean, median, mode, and all three of the inputted values, and a "cancel" button that allows the user to exit out of the program. The program is designed to ignore commas and whitespace once the user has pressed one of the calculation buttons. It puts the string of numbers the user inputted into an array, converts them into an array of doubles, then calculates with the array of doubles.
+This program is a statistics calculator with GUI created in Netbeans. The program prompts the user to input a set of values, separated by commas, so they can calculate the mean, median, mode, or all three at once, of the inputted set. The program is designed to ignore commas and whitespace once the user has pressed one of the calculation buttons. It puts the string of numbers the user inputted into an array, converts them into an array of doubles, then calculates with the array of doubles.
 
 ## How to compile and run the program
 
@@ -26,9 +26,7 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the user starts the program, they will see a box that allows them to input a set of values of their choice, separated by commas. There are also four boxes that allow the user to calculate either the mean, the median, the mode, or all three at once. The program is designed to make it to where the user can calculate all four without needing to replace the input. Once the user presses one of the buttons, the output will appear towards the bottom of the window. Finally, there is another button labelled "cancel" that will allow the user to exit the program.
 
 ![screenshot](images/mean_calculation.png)  
 Fig 1. Calculating the mean of the input.
