@@ -11,7 +11,7 @@ Statistics Calculator
 
 ## Project description
 
-This program is a compilation of five scripts written in Python covering STIG standards on a Window's system.
+This program is a statistics calculator with GUI created in Netbeans. When running the program, the user will see a box where they can type in inputs separated by commas, buttons to find the mean, median, mode, and all three of the inputted values, and a "cancel" button that allows the user to exit out of the program. The program is designed to ignore commas and whitespace once the user has pressed one of the calculation buttons. It puts the string of numbers the user inputted into an array, converts them into an array of doubles, then calculates with the array of doubles.
 
 ## How to compile and run the program
 
