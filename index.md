@@ -39,7 +39,7 @@ Ethics Papers
 ### [Ethical Issues in the World of Cyber Security](/pdf/CSCI_325_ethics_paper.pdf)
 
 -   **Class:** Object-Oriented Programming - CSCI 325
--   **Grade:** (ask her)
+-   **Grade:** 100%
 
 ### [Artificial Intelligence: The Ethical Problems with AI Art](/pdf/CSCI_332_ethics_paper.pdf)
 
