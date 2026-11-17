@@ -6,7 +6,7 @@ Final Project - 5 STIG Python Script
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** 100%
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [STIG final link](https://github.com/Pookie-Roo/STIG-Final/tree/main)  
     (Please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
