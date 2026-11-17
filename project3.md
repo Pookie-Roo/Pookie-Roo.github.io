@@ -11,7 +11,7 @@ Creating a LAN
 
 ## Project description
 
-This program is a compilation of five scripts written in Python covering STIG standards on a Window's system.
+Unlike the other projects, this is not not a traditional program. There is a little snippet of code in HTML to create a website that explains the details of this lab. So while there is not much challenging code, this project leans more towards my major, Cybersecurity, and was still very challenging. To complete this lab, first, my partner and I had to 
 
 ## How to compile and run the program
 
