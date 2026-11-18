@@ -6,7 +6,7 @@ Creating a LAN
 -   **Class:** Applied Networking - CSCI 332
 -   **Grade:** 100%
 -   **Language(s):** HTML
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Website Detailing LAN Creation](https://github.com/Pookie-Roo/LAN-Lab)  
     (Please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
