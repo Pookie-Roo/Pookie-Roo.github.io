@@ -6,7 +6,7 @@ Statistics Calculator
 -   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** 100%
 -   **Language(s):** Java
--   **Source Code Repository:** [features/Statistic-Calculator](https://github.com/Pookie-Roo/Statistic-Calculator/tree/main)
+-   **Source Code Repository:** [features/Statistic-Calculator](https://github.com/Pookie-Roo/Statistic-Calculator/tree/main)  
     (Please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
