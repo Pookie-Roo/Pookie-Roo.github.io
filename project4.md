@@ -6,7 +6,7 @@ Final Project - UDP Client and Server Package Transfer
 -   **Class:** Applied Networking - CSCI 332
 -   **Grade:** 100%
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [UDP Client and Server Transfer](https://github.com/Pookie-Roo/UDP-Client-Server/tree/main)  
     (Please [email me](mailto:aslittle@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
