@@ -11,7 +11,7 @@ Final Project - UDP Client and Server Package Transfer
 
 ## Project description
 
-This program acts as a client and server completing a handshake over UDP. The code was written in Visual Studio Code on an Ubuntu Linux virtual machine. The program is set to run locally on the IP address 127.0.0.1. It is also designed to transfer over port 12345.
+This program acts as a client and server completing a handshake over UDP. The code was written in Visual Studio Code on an Ubuntu Linux virtual machine. The program is set to run locally on the IP address 127.0.0.1. It is also designed to transfer over port 12345. The user will be prompted to input these two as well as what file they would like to transfer on the client and only the listening port on the server. Once they hit enter on both, the transfer will begin. This only works for small files. The client sends the packet in bytes. With each byte received, the server will send an acknowledgement to the client, which makes it request to send the next byte. Once the whole file has been transferred, both the client and server will output "done," and the handshake will be complete. The server will also send an acknowledgement to "output.txt" and closes the file and socket.
 
 ## How to compile and run the program
 
