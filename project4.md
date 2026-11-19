@@ -25,7 +25,7 @@ Once the two codes are compiled, run these commands to start the programs:
 
 ## UI Design
 
-Once the program is compiled and run, nothing needs to be done on the server side. One the user runs it, it will start listening for a handshake. On the client side, the user will be prompted to input an IP address, which is suggested to use 127.0.0.1 if local or the IP address will need to be found if not local, a port which needs to be 12345, and the name of the file the user wishes to transfer. The server will acknowledge that the file was received. Then both the client and server end the handshake by saying the file transfer was successful. Do not be alarmed if the terminal does not output every byte transferred, it is still transferring properly.
+Once the program is compiled and run, nothing needs to be done on the server side. The server will simply start listening for a handshake. On the client side, the user will be prompted to input an IP address, which is suggested to use 127.0.0.1 if local or the IP address will need to be found if not local, a port which needs to be 12345, and the name of the file the user wishes to transfer. The server will acknowledge that the file was received. Then both the client and server end the handshake by saying the file transfer was successful. Do not be alarmed if the terminal does not output every byte transferred, it is still transferring properly.
 
 ![screenshot](images/client.png)  
 Fig 1. The file successfully transferring on the client side
