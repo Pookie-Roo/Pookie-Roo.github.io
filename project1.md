@@ -17,7 +17,11 @@ This program is a compilation of five scripts written in Python covering STIG st
 
 First, the user will need to download the files from the repository. Then they will need to open the terminal and cd into the directory where the script is. Then the user types:
 
-**python3 (script_name).py**
+**python -m ruff check (script_name).py**
+
+This makes sure that all checks in the code pass and there are no errors. If that returns "All checks passed!", run the script with this command:
+
+**python (script_name).py**
 
 ## UI Design
 
