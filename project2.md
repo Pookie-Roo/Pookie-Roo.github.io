@@ -15,14 +15,13 @@ This program is a statistics calculator with GUI created in Netbeans. The progra
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+After downloading the file, open a terminal and cd into the directory that is storing it. Then, in order to compile the program, type:
 
-```bash
-cd ./project
-python setup.py
-```
+**javac statsCalculator.java**
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Once the program compiles, simply run:
+
+**java statsCalculator**
 
 ## UI Design
 
