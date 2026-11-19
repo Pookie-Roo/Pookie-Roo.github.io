@@ -19,12 +19,12 @@ Programming Projects
 ---
 ### [Creating a LAN | CSCI 332](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/synced.png)
 
 ---
 ### [Final Project - UDP Client and Server Package Transfer | CSCI 332](project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/server.png)
 
 ---
 
