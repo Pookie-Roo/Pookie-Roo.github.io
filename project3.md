@@ -15,7 +15,7 @@ Unlike the other projects, this is not not a traditional program. There is a lit
 
 ## How to start the website
 
-
+To start the website, download the LAN_lab_project folder and navigate to the folder on the user's device. Then open "index.html." That will open the user's browser with the website.
 
 ## UI Design
 
