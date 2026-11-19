@@ -15,14 +15,9 @@ This program is a compilation of five scripts written in Python covering STIG st
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+First, the user will need to download the files from the repository. Then they will need to open the terminal and cd into the directory where the script is. Then the user types:
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+**python3 (script_name).py**
 
 ## UI Design
 
