@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Final Project - 5 STIG Python Scripts | CSCI 301](project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/final5.png)
 
 ---
 ### [Statistics Calculator | CSCI 325](project2.md)
