@@ -27,14 +27,14 @@ This makes sure that all checks in the code pass and there are no errors. If tha
 
 Each of the STIG scripts are designed to either tell the user that the condition it is looking for is true or through out an error message if the condition is false. If the condition is true, the output will say "NF" and then state the condition asked. If the condition is false, the output will say "OPEN" and then state that the intended condition is not true or that a path could not be found in some cases.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/final2.png)  
+Fig 1. The 2nd python script running
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/final4.png)  
+Fig 2. The 4th python script running
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/final5.png)  
+Fig 3. The 5th python script running
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
