@@ -33,9 +33,6 @@ Fig 1. The file successfully transferring on the client side
 ![screenshot](images/server.png)  
 Fig 2. The file successfully transferring on the server side
 
-![screenshot](images/test_image.jpeg)
-Fig 3. The image file that was transferred
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
