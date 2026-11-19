@@ -11,23 +11,21 @@ Final Project - UDP Client and Server Package Transfer
 
 ## Project description
 
-This program is a compilation of five scripts written in Python covering STIG standards on a Window's system.
+This program acts as a client and server completing a handshake over UDP. The code was written in Visual Studio Code on an Ubuntu Linux virtual machine. The program is set to run locally on the IP address 127.0.0.1. It is also designed to transfer over port 12345.
 
 ## How to compile and run the program
 
 For this project, make sure to open two separate terminals, one for the client and one for the server. To compile, run these two commands on the respective terminals:
 
-**g++ Client.cpp -o Client** and **g++ Server.cpp -o Server**
+**g++ udpclient.cpp -o udpclient** and **g++ udpserver.cpp -o udpserver**
 
 Once the two codes are compiled, run these commands to start the programs:
 
-**.\Client** and **.\Server**
+**.\udpclient** and **.\udpserver**
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the program is compiled and run, nothing needs to be done on the server side. One the user runs it, it will start listening for a handshake. On the client side, the user will be prompted to input an IP address, which is suggested to use 127.0.0.1 if local or the IP address will need to be found if not local, a port which needs to be 12345, and the name of the file the user wishes to transfer. The server will acknowledge that the file was received. Then both the client and server end the handshake by saying the file transfer was successful. Do not be alarmed if the terminal does not output every byte transferred, it is still transferring properly.
 
 ![screenshot](images/client.png)  
 Fig 1. The file successfully transferring on the client side
